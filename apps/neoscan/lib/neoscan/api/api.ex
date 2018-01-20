@@ -1066,8 +1066,8 @@ defmodule Neoscan.Api do
       /api/main_net/v1/get_all_nodes
             [
               {
-                "url": "http://seed1.cityofzion.io:8080",
-          "height": 1239778
+                "url": "http://neo-privnet-node-one:30333",
+          "height": 1
         },
         ...
       ]
